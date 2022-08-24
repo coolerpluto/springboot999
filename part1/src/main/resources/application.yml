@@ -1,0 +1,8 @@
+server:
+  port: 8888
+url:
+  orderurl: http://orderurl
+user:
+  id: 1
+  name: fan
+  password: 123
